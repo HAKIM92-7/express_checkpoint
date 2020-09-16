@@ -1,0 +1,40 @@
+
+p {
+
+    text-align: center;
+
+    color: blue;
+    font-size: xx-large;
+
+    margin-top: 400px;
+}
+
+header ul  {
+
+display: flex;
+
+
+}
+
+header {
+
+background-color: cornflowerblue;
+
+}
+
+header a {
+
+
+color: cornsilk;
+
+
+
+}
+
+header li {
+
+
+margin-right: 20px;
+list-style: none;
+
+}
